@@ -2,7 +2,7 @@ function App() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-4 gap-8 ">
       {/*clifford*/}
-      <div className="bg-purple-500 col-span-2 ">
+      <div className="bg-purple-500 col-span-2  ">
         <div className=" ">
           <img src="/image-daniel.jpg" alt="" className="rounded-full" />
         </div>

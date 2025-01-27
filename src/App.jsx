@@ -2,7 +2,7 @@ import Card from "./card";
 
 function App() {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-4 gap-8  bg-gray-300 p-20">
+    <div className="grid grid-cols-1  md:grid-cols-4 gap-8  bg-gray-300 p-20">
       {/*clifford*/}
       <Card
         name="Daniel Clifford"
