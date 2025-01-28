@@ -6,7 +6,7 @@ function App() {
       {/*clifford*/}
       <Card
         name="Daniel Clifford"
-        style="bg-purple-800 col-span-2"
+        style="bg-purple-800 md:col-span-2"
         image="/image-daniel.jpg"
         textcolor="text-gray-400"
         color="text-white"
@@ -38,7 +38,7 @@ function App() {
       {/*Kira */}
       <Card
         name="Kira Whittle"
-        style="bg-white row-span-2"
+        style="bg-white md:row-span-2"
         image="/image-kira.jpg"
         textcolor="text-gray-400"
         text="Before joining the bootcamp, I’ve never written a line of code. I
@@ -69,7 +69,7 @@ function App() {
       {/*patrick*/}
       <Card
         name="Patrick Abrams"
-        style="bg-black col-span-2"
+        style="bg-black md:col-span-2"
         image=" /image-jeanette.jpg"
         textcolor="text-gray-400"
         color="text-white"
